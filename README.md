@@ -1,6 +1,5 @@
 # Korištenje probabilističkih modela u analizi digitalne slike
 # Usage of probabilistyc models in digital image analysis
-## Signali i sistemi 2 - Signals and systems 2
 
 
 Course project for Signals and systems 2 course on Faculty of electrical engineering, 
