@@ -9,3 +9,5 @@ University of Sarajevo - academic year 2022/2023 (january).
 **radiometricTransformations.py** illustrates the impact of radiometric transformations on image statistical parameters.
 
 **principalComponentsAnalysis.py** focuses on image compression using PCA.
+
+All images are in the *images* folder.
